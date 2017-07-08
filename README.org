@@ -1,0 +1,18 @@
+#+TITLE: README.org --- My personal Dota 2 config
+#+DATE: <2017-07-08 Sat>
+#+AUTHOR: Geoff Wark
+#+EMAIL: gtw@cock.li
+#+STARTUP: showall
+
+These are the Launch Options and autoexec settings that I use when playing [[http://store.steampowered.com/app/570/Dota_2/][Dota 2]].  Understand that I play the game on [[https://www.archlinux.org/][Arch Linux]] and thus the config is tailored for that operating system.  That said, it should still work on any platform.
+
+* Installing
+** Launch Options
+
+Simply copy-paste the contents of [[file:launch_options.txt][launch_options.txt]] into the Launch Options for Dota 2 in Steam.  You can find this under /Properties -> General -> Launch Options/.
+
+** autoexec
+
+Copy the file [[file:autoexec.cfg][autoexec.cfg]] to this location: =~/.steam/steam/steamapps/common/dota 2 beta/game/dota/cfg/=
+
+_NOTE:_ This path may be different for you if you're using Windows.  Just Google it.
